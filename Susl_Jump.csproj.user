@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Items\Enemy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\Platform.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\PlatformDie.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\PlatformJump.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\PlatformMove.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\ScoreLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\Shield.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\Spell.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Items\Susl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
