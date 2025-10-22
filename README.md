@@ -2,7 +2,7 @@
 
 ## School Programming Competition: Game
 
-### **My project for the school game development competition in WinForms during my third year of high school.**
+### **My project for the school game development competition in WinForms during my second year of high school.**
 
 ## About project:
 - A 2D endless jumper game made in C# WinForms.
